@@ -1,0 +1,16 @@
+GSILIB package includes some companion executive binaries or
+shared libraries necessary to execute GSILIB APs on Windows.
+
+Refer the following URLs for the licenses of these binaries
+or shared libraries.
+
+libblas.dll:
+liblapack.dll:
+ LAPACK for Windows 
+ http://icl.cs.utk.edu/lapack-for-windows/lapack/
+
+libgcc_s_dw2-1.dll:
+libgfortran-3.dll:
+libquadmath-0.dll:
+ MinGW
+ http://www.mingw.org/
